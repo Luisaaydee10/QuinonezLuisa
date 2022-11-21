@@ -80,13 +80,14 @@ include("marco-left.php")
  
 <script >  
 
- document.title="Stalin"; 
-document.getElementById("foto").src="./images/stalin.png";
-document.getElementById("elnombre").innerHTML="Stalin Francis";
+ document.title="Luisa"; 
+document.getElementById("foto").src="./images/luisa.png";
+document.getElementById("elnombre").innerHTML="Luisa Quiñonez";
 
  document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p>";
 
- document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='eys-kevin.php'>Kevin Aguilar</a></p><p><a href='eys-damaris.php'>Damaris Viallalva</a></p> ";
+ document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='http://highkickesmeraldas.com/RiveraFabricio/'>Fabricio Rivera</a></p><p><a href='http://highkickesmeraldas.com/GeorgeElaine/'>Elaine Santos</a></p> </b></p><hr> <p><a href='http://highkickesmeraldas.com/EscobarJair/'>Jair Escobar</a></p><p><a href='http://highkickesmeraldas.com/GamezRoberth/'>Gamez Quiñonez</a></p> ";
+ </script>";
  </script>
  
 <?php
